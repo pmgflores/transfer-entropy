@@ -22,7 +22,7 @@ Includes:
 3. Simulation examples demonstrating time-delayed mutual information and transfer entropy
 
 ## References
-This repo is related to the post: ["Transfer Entropy"](http://pablomflores.com/transfer-entropy) by Pablo M. Flores.
+This repo contains the complementary materials of the post: ["Transfer Entropy"](http://pablomflores.com/transfer-entropy) by Pablo M. Flores.
 
 ## License
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
